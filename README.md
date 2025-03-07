@@ -1,4 +1,4 @@
-# Data Scientist
+# Federico Maria Vitrò - Data Scientist
 
 ### Education
 - Computer science and Electronics Engineering, Bachelor's degree @ Università degli studi di Pavia
